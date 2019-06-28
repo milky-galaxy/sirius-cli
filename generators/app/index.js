@@ -13,7 +13,7 @@ module.exports = class extends Generator {
             {
                 type: 'input',
                 name: 'name',
-                message: '请输入想要创建的项目名',
+                message: '请输入想要创建项目的名称1:',
                 default: this.appname,
                 store: false
             }
@@ -40,7 +40,7 @@ module.exports = class extends Generator {
             {
                 type: 'input',
                 name: 'bin',
-                message: '请输入想要创建的命令名称',
+                message: '请输入想要创建的命令的名称1',
                 default: name + '-cli'
             },
             {

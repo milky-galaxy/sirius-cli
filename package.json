@@ -1,6 +1,6 @@
 {
   "name": "sirius-cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "serverless fullstack web framework commandline tool",
   "homepage": "https://github.com/milky-galaxy/sirius-cli",
   "repository": "https://github.com/milky-galaxy/sirius-cli.git",
